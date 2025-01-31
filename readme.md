@@ -27,8 +27,7 @@ pip install tk
 1. Clone the repository (or download the script):
 
 ```sh
-git clone https://github.com/yourusername/tkinter-calculator.git
-cd tkinter-calculator
+https://github.com/manashbaral/tkinter-calculator.git
 ```
 
 2. Run the Python script:
