@@ -1,12 +1,12 @@
 import tkinter as tk
 
-calculation=""
+calculation=""   #initializing the variable
 def add_to_calculation(symbol):
     global calculation
     calculation+=str(symbol)
     text_result.delete(1.0,"end")
     text_result.insert(1.0,calculation)
-
+ 
 def evaluate_calc():
     global calculation
     try:
